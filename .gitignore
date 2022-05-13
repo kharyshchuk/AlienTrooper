@@ -1,0 +1,5 @@
+.vs/
+.vsconfig
+obj
+Library/*
+Assets/Audio
